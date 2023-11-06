@@ -1,6 +1,6 @@
 # MARCOS RENATO PINTO VICENTE
 RUA EDUARDO SATLHER, Nº 2, SERRA D'AGUA, JUIZ DE FORA, MG 36035720 <br>
-32999908591| markosren@gmail.com
+32999908591| markosren@gmail.com <br>
 ## RESUMO PROFISSIONAL
 Analista de sistemas com 10 anos de experiência, especializada no desenvolvimento
 de soluções tecnológicas para clientes corporativos. Com perfil dinâmico e amplo
@@ -18,6 +18,18 @@ ANALISTA DE SUPORTE COMPUTACIONAL | JUIZ DE FORA, MG | Setembro 2014 - Atual
 * Supervisão da instalação de programas de sistemas de software
 * Criação de relatórios
 * Desenvolvimento de softwares e sistemas
+### HOSPITAL UNIVERSITÁRIO
+TERCERIZADO | JUIZ DE FORA, MG | Março 2010 - Setembro 2014
+* Digitação de Laudos
+* Configuração de Layout de Laudos
+* Relatorios utilizando Ireport e banco de dados Sybase
+* Configuração de Interfaceamento de equipamentos clinicos
+* Providenciar acesso remoto para empresas de Terceiros.
+### VALE VERDE/CHSYS
+ESTAGIO EM SISTEMA DE INFORMAÇÃO | JUIZ DE FORA, MG | Desembro de 2009 - Março de 2010
+* Programação em Java e Java Servece Face(JSF)
+* Desenvolvimento de Relatórios Ireport
+* Levantamento de requisitos
 ### FUTURA INFORMATICA
 INSTRUTOR DE INFORMATICA | JUIZ DE FORA, MG | Janeiro 2006 - Dezembro 2008
 * Aulas para turma de 30 a 50 alunos de Informatica Basica, Windows, Pacote

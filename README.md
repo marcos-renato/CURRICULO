@@ -26,7 +26,7 @@ TERCERIZADO | JUIZ DE FORA, MG | Março 2010 - Setembro 2014
 * Configuração de Interfaceamento de equipamentos clinicos
 * Providenciar acesso remoto para empresas de Terceiros.
 ### VALE VERDE/CHSYS
-ESTAGIO EM SISTEMA DE INFORMAÇÃO | JUIZ DE FORA, MG | Desembro de 2009 - Março de 2010
+ESTAGIO EM SISTEMA DE INFORMAÇÃO | JUIZ DE FORA, MG | Desembro de 2008 - Março de 2010
 * Programação em Java e Java Servece Face(JSF)
 * Desenvolvimento de Relatórios Ireport
 * Levantamento de requisitos
